@@ -18,3 +18,23 @@ function sumar(){
     let resultado=numerouno+numerodos+numerotres;
     alert("lasumaes"+ resultado);
 }
+function restar(){
+    let numerouno=2;
+    let numerodos=4;
+    let numerotres=10;
+    let resultado=numerouno-numerodos-numerotres;
+    alert("larestaes"+ resultado);
+}
+function multiplicación(){
+    let numerouno=2;
+    let numerodos=4;
+    let numerotres=10;
+    let resultado=numerouno*numerodos*numerotres;
+    alert("lamultiplicaciónes"+ resultado);
+}function división(){
+    let numerouno=2;
+    let numerodos=4;
+    let numerotres=10;
+    let resultado=numerouno/numerodos/numerotres;
+    alert("ladivisiónes"+ resultado);
+}
